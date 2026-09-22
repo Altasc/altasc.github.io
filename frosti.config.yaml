@@ -62,7 +62,7 @@ site:
       target: _self
     # - id: contact
     #   text: 邮箱 | Email
-    #   href: "mailto:althenesc@outlook.com"
+    #   href: "mailto:althesc@outlook.com"
     #   target: _blank # 在新标签页打开
     #   svg: "material-symbols:attach-email-outline-rounded"
 
@@ -77,7 +77,7 @@ user:
         ariaLabel: Github
         title: Github
         svg: "ri:github-line"
-      - href: "https://x.com/althenesc"
+      - href: "https://x.com/althesc"
         ariaLabel: X(twitter)
         title: X(twitter)
         svg: "ri:twitter-x-line"
@@ -85,7 +85,7 @@ user:
         ariaLabel: BiliBili
         title: BiliBili
         svg: "ri:bilibili-line"
-      - href: "mailto:althenesc@outlook.com" # 链接
+      - href: "mailto:althesc@outlook.com" # 链接
         ariaLabel: Email # 图标的可访问性标签
         title: Email # 图标的悬浮标题
         svg: "lucide:mail"
@@ -96,7 +96,7 @@ user:
         ariaLabel: Github
         title: Github
         svg: "ri:github-line"
-      - href: "https://x.com/althenesc"
+      - href: "https://x.com/althesc"
         ariaLabel: X(twitter)
         title: X(twitter)
         svg: "ri:twitter-x-line"
@@ -104,7 +104,7 @@ user:
         ariaLabel: BiliBili
         title: BiliBili
         svg: "ri:bilibili-line"
-      - href: "mailto:althenesc@outlook.com" # 链接
+      - href: "mailto:althesc@outlook.com" # 链接
         ariaLabel: Email # 图标的可访问性标签
         title: Email # 图标的悬浮标题
         svg: "lucide:mail"
