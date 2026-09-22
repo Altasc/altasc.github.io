@@ -39,6 +39,11 @@ site:
           href: /blog/category/AI智能体 - AI Agent # 根据分类链接到不同的页面
           svg: "material-symbols:news-outline-rounded"
           target: _self
+        - id: cpp_style
+          text: C++风格 - C++ Style
+          href: /blog/category/C++风格 - C++ Style # 根据分类链接到不同的页面
+          svg: "material-symbols:news-outline-rounded"
+          target: _self
         - id: essay
           text: 随笔 - Essay
           href: /blog/category/随笔 - Essay

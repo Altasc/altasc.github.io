@@ -228,3 +228,21 @@ If you have any questions or suggestions, you can provide feedback or communicat
 @[Saicaca](https://github.com/saicaca) Their inspiration was the main reason I created this theme
 
 @[WRXinYue](https://github.com/WRXinYue) They helped me a lot when I was first getting started
+
+## 📄 License & Copyright Notice
+
+This project adopts a **dual / split-licensing** scheme:
+
+### 1. Original Articles & Media Content
+* All original articles, blog post source files (Markdown/MDX), and original illustrations/media in this repository are copyrighted by @[Altasc](https://github.com/Altasc).
+* **All Rights Reserved**. Without prior written permission from the author, any reproduction, excerpting, commercial use, or utilization for AI model training in any form is strictly prohibited.
+
+### 2. Website Source Code & Theme Framework
+* The underlying website source code, theme architecture, and styles are licensed under the [MIT License](LICENSE).
+* The core theme is built upon the open-source project by @[EveSunMaple](https://github.com/EveSunMaple).
+
+## 💖 Acknowledgements
+
+Special thanks to [EveSunMaple](https://github.com/EveSunMaple) for the exceptional open-source theme and template design!
+
+> *"Heartfelt thanks to the original author, EveSunMaple, for creating such an elegant and minimalist blog template, which saved me tremendous time in setting up and styling the site. The website's source code remains fully open-sourced in compliance with the original project's MIT License."*

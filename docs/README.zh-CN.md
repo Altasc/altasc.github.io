@@ -228,3 +228,21 @@ bash frosti.update.sh
 @[Saicaca](https://github.com/saicaca) 他的启迪是我制作此主题的主要原因
 
 @[WRXinYue](https://github.com/WRXinYue) 在我前期入门时帮助了我很多
+
+## 📄 版权与许可声明
+
+本项目采用**双重/分部许可**机制：
+
+### 1. 原创文章与媒体内容
+* 本仓库内所有原创文章、博文源文件（Markdown/MDX）及原创配图，著作权均归 @[Altasc](https://github.com/Altasc) 所有。
+* **保留所有权利 (All Rights Reserved)**。未经作者书面许可，严禁以任何形式进行转载、摘编、商业使用或用于任何 AI 模型训练。
+
+### 2. 网站源码与主题框架
+* 网站的底层代码、主题架构与样式遵循 [MIT License](LICENSE)。
+* 核心主题基于 @[EveSunMaple](https://github.com/EveSunMaple) 的开源项目构建。
+
+## 💖 致谢
+
+特别感谢 [EveSunMaple](https://github.com/EveSunMaple) 优秀的开源主题/模板设计！
+
+> *“感谢原作者 EveSunMaple 提供的精致简洁的博客模板，极大地节省了我搭建与排版网站的时间。本站的网站代码完全遵守原项目的 MIT 许可协议开源。”*
